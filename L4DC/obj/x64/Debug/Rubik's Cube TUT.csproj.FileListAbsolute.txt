@@ -1,0 +1,24 @@
+D:\Rubik's cube Software\L4DC\L4DC\bin\x64\Debug\L4DC.exe
+D:\Rubik's cube Software\L4DC\L4DC\bin\x64\Debug\L4DC.pdb
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Menu.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms22.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms31.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms32.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms4.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms5.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms6.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms71.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms72.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Form01.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Form02.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Form03.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Form021.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Form022.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms11.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms12.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Forms21.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.Properties.Resources.resources
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\Rubik's Cube TUT.csproj.GenerateResource.Cache
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.exe
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\L4DC.pdb
+D:\Rubik's cube Software\L4DC\L4DC\obj\x64\Debug\Rubik's Cube TUT.csprojResolveAssemblyReference.cache
